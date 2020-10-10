@@ -1,0 +1,24 @@
+Magic 8-Ball Challenge -- Codecademy
+
+1.)  In order to complete this project, you should be familiar with Java conditionals and control flow. Ideally, you’ve finished the first four sections of Learn Java (through Conditionals and Control Flow).
+
+Make sure to scope out the program on paper before you start coding (i.e. how many fortunes/pieces of advice will your magic 8-ball have?) and remember to take breaks!
+Project requirements:
+
+
+2.)  Research on the web ways to create a random number with Java.
+
+
+3.)  Your program should use a random number and an if-else if-else statement or a switch statement to output a random fortune/piece of advice.
+Solution:
+
+
+4.)  Great work! Visit our forums to compare your project to our sample solution code. You can also learn how to host your own solution on GitHub so you can share it with other learners! Your solution might look different from ours, and that’s okay! There are multiple ways to solve these projects, and you’ll learn more by seeing others’ code.
+Code Editor
+1
+Output-only Terminal
+Output:
+
+ 
+
+
